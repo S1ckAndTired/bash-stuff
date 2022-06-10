@@ -1,0 +1,9 @@
+#!/bin/bash
+
+for m in {01..12}
+do
+  for d in {01..31}
+  do
+    wget http://0.0.0.0/path-to-dir/2020-$m-$d-upload.pdf > urls
+  done
+done
