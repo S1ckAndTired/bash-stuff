@@ -1,1 +1,1 @@
-# bash-stuff
+# Some bash stuff
